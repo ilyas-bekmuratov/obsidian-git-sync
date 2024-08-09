@@ -1,0 +1,3 @@
+#idea
+
+![[text racer.png]]

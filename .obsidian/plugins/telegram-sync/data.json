@@ -1,0 +1,45 @@
+{
+  "botToken": "Done! Congratulations on your new bot. You will find it at t.me/Damien_tg_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.  Use this token to access the HTTP API: 6855186352:AAGmKersCICzkahaENXBF4acaXjMYgclHgE Keep your token secure and store it safely, it can be used by anyone to control your bot.  For a description of the Bot API, see this page: https://core.telegram.org/bots/api",
+  "deleteMessagesFromTelegram": false,
+  "allowedChats": [
+    "ostalnoe_nevazhno",
+    "OstalnoeNevazhno"
+  ],
+  "mainDeviceId": "",
+  "pluginVersion": "",
+  "telegramSessionType": "user",
+  "telegramSessionId": 20240523124541660,
+  "betaVersion": "",
+  "connectionStatusIndicatorType": "CONSTANT",
+  "cacheCleanupAtStartup": false,
+  "messageDistributionRules": [
+    {
+      "messageFilterQuery": "{{all}}",
+      "messageFilterConditions": [
+        {
+          "conditionType": "all",
+          "operation": "",
+          "value": ""
+        }
+      ],
+      "templateFilePath": "",
+      "notePathTemplate": "Telegram/{{content:30}} - {{messageTime:YYYYMMDDHHmmssSSS}}.md",
+      "filePathTemplate": "Telegram/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
+      "reversedOrder": false,
+      "heading": ""
+    }
+  ],
+  "defaultMessageDelimiter": true,
+  "parallelMessageProcessing": false,
+  "processOldMessages": false,
+  "processOldMessagesSettings": {
+    "lastProcessingDate": 1716449872,
+    "daysLimit": 14,
+    "dialogsLimit": 100,
+    "messagesLimit": 1000,
+    "chatsForSearch": []
+  },
+  "processOtherBotsMessages": false,
+  "retryFailedMessagesProcessing": false,
+  "topicNames": []
+}

@@ -1,0 +1,1 @@
+mirrored supply convoy protection for a timer - protected resources are going from one defender player to their teammate who is attacking the defender of the enemy team

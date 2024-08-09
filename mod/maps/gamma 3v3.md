@@ -1,0 +1,1 @@
+similar to [[gamma 2v2]], but the supplies also can be used to shorten the timer before reinforcements - the 3d players - arrive. 3d player base is very far from the battle line and a new one closer is enabled when the timer tics to 0.

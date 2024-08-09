@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "2523740c45e01f86",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad0fd569315356f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d84038c08e2b3ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a know-how/no procrastination.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5303cecf26b119ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "52980c0705086fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e7a0d6dc67071f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "fcd11cfe4c70936d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8257cef7be71ee45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6bd3de63e15a955b",
+    "type": "split",
+    "children": [
+      {
+        "id": "232ec6c117563ddd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04792770d149dc14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "a know-how/no procrastination.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8586636d34d1c0ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "a know-how/no procrastination.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d892760531f2f92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c111d01892842556",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "a know-how/no procrastination.md"
+              }
+            }
+          },
+          {
+            "id": "ba978bf4e9fc4b4f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "1e7a0d6dc67071f3",
+  "lastOpenFiles": [
+    "a know-how/Organic brand building.md",
+    "a know-how/no procrastination.md",
+    "idea bag/commissar game.md",
+    "a know-how/stuck in your life.md",
+    "a know-how/Why b2c SaaS fails.md",
+    "a know-how/swap games with programming.md",
+    "zzzcache/Pasted image 20240807153513.png",
+    "a know-how/procedural animation tech.md",
+    "a know-how/3 methods to learn faster.md",
+    "a know-how/self deployed servers.md",
+    "resume basic.md",
+    "find a job abroad.md",
+    "Untitled.md",
+    "a know-how/speeding self improvement.md",
+    "a know-how/using generative ai.md",
+    "zzzcache/Pasted image 20240724153125.png",
+    "Wednesday.md",
+    "a know-how/mindmapping.md",
+    "a know-how/playtesting.md",
+    "a know-how/micro SaaS.md",
+    "a know-how/как найти работу.md",
+    "a know-how/prototyping with no art skills.md",
+    "a know-how/investing your time.md",
+    "a know-how/claude engineer - cloud coding.md",
+    "idea bag/race-type.md",
+    "zzzcache/Pasted image 20240715111316.png",
+    "zzzcache/Pasted image 20240715111044.png",
+    "zzzcache/Pasted image 20240715110957.png",
+    "a know-how/self-host hyperscale ai with Nvidia NIM.md",
+    "banana.md",
+    "a know-how/how to get more done.md",
+    "zzzcache/Pasted image 20240708130554.png",
+    "zzzcache/Pasted image 20240707144843.png",
+    "zzzcache/Pasted image 20240707144720.png",
+    "zzzcache/Pasted image 20240707134415.png",
+    "zzzcache/Pasted image 20240707134217.png",
+    "homebrew",
+    "Untitled.canvas",
+    "Ad-game",
+    "mod/factions 2.0",
+    "mod/FACTIONS 2",
+    "mod/FACTIONS 1.0 - Copy",
+    "vollyeball/characters",
+    "cache/Perspectives.pdf",
+    "zzzcache/Perspectives+Form+Fillable.pdf",
+    "zzzcache/Character_Arc_v2.1_Form_Fillable.pdf",
+    "zzzcache/More_Character_Attributes_v2.1_Form_Fillable.pdf",
+    "mod/Untitled.canvas"
+  ]
+}
