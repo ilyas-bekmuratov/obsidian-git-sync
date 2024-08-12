@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a know-how/no procrastination.md",
+                "file": "a know-how/following through with actions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a know-how/no procrastination.md",
+                "file": "a know-how/following through with actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a know-how/no procrastination.md",
+                "file": "a know-how/following through with actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a know-how/no procrastination.md"
+                "file": "a know-how/following through with actions.md"
               }
             }
           },
@@ -163,8 +163,10 @@
   },
   "active": "1e7a0d6dc67071f3",
   "lastOpenFiles": [
-    "a know-how/Organic brand building.md",
+    "code bits",
     "a know-how/no procrastination.md",
+    "a know-how/following through with actions.md",
+    "a know-how/Organic brand building.md",
     "idea bag/commissar game.md",
     "a know-how/stuck in your life.md",
     "a know-how/Why b2c SaaS fails.md",
@@ -192,8 +194,6 @@
     "zzzcache/Pasted image 20240715111044.png",
     "zzzcache/Pasted image 20240715110957.png",
     "a know-how/self-host hyperscale ai with Nvidia NIM.md",
-    "banana.md",
-    "a know-how/how to get more done.md",
     "zzzcache/Pasted image 20240708130554.png",
     "zzzcache/Pasted image 20240707144843.png",
     "zzzcache/Pasted image 20240707144720.png",
