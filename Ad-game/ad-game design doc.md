@@ -121,6 +121,10 @@ buttons, sliders, input fields buy close
 	- can be purchased in the pause menu
 	- higher quality gives an option to buy "another player's save file" instead of yours for extra money
 	- the save file can be launched the next time the game turns on
+- trash recycling services
+	- empties the trash can
+	- 1 time purchase that gives $ for each box from the trash
+	- higher quality - more $
 - Daily Bonus
     - Gives a choice between (+10 sec for boss a day or a discount on the type of product for the whole day).
 - *0.1* Dating Site/Social Network
@@ -132,6 +136,9 @@ buttons, sliders, input fields buy close
     - Adds fireworks and fun stuff on the boss victory screen.
     - Higher quality means more fireworks and fun stuff.
     - Buying higher quality event organization opens a boss-only mode, after which purchases of this bonus give time.
+- watch
+	- unlocks a different look for the in-game timer
+	- chosen in the main menu
 - Furniture/Cabinets/Shelves
     - In the main menu, there's a bunch of purchases - an endless mountain of bought items organized differently.
     - Higher quality means a cooler look.
@@ -207,6 +214,13 @@ buttons, sliders, input fields buy close
     - After signing, a sponsorship banner appears in the game, blocking part of the screen.
     - Multiplies the amount of money and points for each closed ad while the banner is active.
     - Can be turned off in the main menu.
+- achievements table
+	- better quality unlocks descriptions
+	- best quality allows to overdo achievements (earning the rewards again)
+	- lowest quality starts showing achievement badges and % of players that have the achievement
+- trash can
+	- main menu display area with a pile of boxes
+	- can - container - cite - carrier: better quality - bigger size
 - Loyalty Card
     - Seasonal subscription.
     - +1 second for the boss permanently.

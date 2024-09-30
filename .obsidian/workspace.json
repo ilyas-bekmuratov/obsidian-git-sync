@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ad0fd569315356f",
+        "id": "6529c1ab4fc70b98",
         "type": "tabs",
         "children": [
           {
-            "id": "d84038c08e2b3ab6",
+            "id": "a1781cb26eb11d97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a know-how/following through with actions.md",
+                "file": "Ad-game/ad-game design doc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a know-how/following through with actions.md",
+                "file": "Ad-game/ad-game design doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a know-how/following through with actions.md",
+                "file": "Ad-game/ad-game design doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a know-how/following through with actions.md"
+                "file": "Ad-game/ad-game design doc.md"
               }
             }
           },
@@ -157,15 +157,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e7a0d6dc67071f3",
+  "active": "a1781cb26eb11d97",
   "lastOpenFiles": [
+    "vollyeball/characters/Aiona.md",
+    "Ad-game/0.1.md",
+    "find a job abroad.md",
+    "resume basic.md",
+    "Ad-game/ad-game design doc.md",
+    "idea bag/cults.md",
+    "a know-how/following through with actions.md",
     "code bits",
     "a know-how/no procrastination.md",
-    "a know-how/following through with actions.md",
     "a know-how/Organic brand building.md",
     "idea bag/commissar game.md",
     "a know-how/stuck in your life.md",
@@ -175,8 +181,6 @@
     "a know-how/procedural animation tech.md",
     "a know-how/3 methods to learn faster.md",
     "a know-how/self deployed servers.md",
-    "resume basic.md",
-    "find a job abroad.md",
     "Untitled.md",
     "a know-how/speeding self improvement.md",
     "a know-how/using generative ai.md",
@@ -188,12 +192,9 @@
     "a know-how/как найти работу.md",
     "a know-how/prototyping with no art skills.md",
     "a know-how/investing your time.md",
-    "a know-how/claude engineer - cloud coding.md",
-    "idea bag/race-type.md",
     "zzzcache/Pasted image 20240715111316.png",
     "zzzcache/Pasted image 20240715111044.png",
     "zzzcache/Pasted image 20240715110957.png",
-    "a know-how/self-host hyperscale ai with Nvidia NIM.md",
     "zzzcache/Pasted image 20240708130554.png",
     "zzzcache/Pasted image 20240707144843.png",
     "zzzcache/Pasted image 20240707144720.png",
@@ -209,7 +210,6 @@
     "cache/Perspectives.pdf",
     "zzzcache/Perspectives+Form+Fillable.pdf",
     "zzzcache/Character_Arc_v2.1_Form_Fillable.pdf",
-    "zzzcache/More_Character_Attributes_v2.1_Form_Fillable.pdf",
     "mod/Untitled.canvas"
   ]
 }
